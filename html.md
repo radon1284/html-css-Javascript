@@ -129,6 +129,7 @@ Places an image on your page
 ```html
 <embed>
 ```
+
 Adds a multimedia element directly into your page, allowing your browser to play it with a plug-in.
 
 ```html
@@ -140,3 +141,51 @@ Adds a script, usually a JavaScript into your page.
 <noscript>...</noscript>
 ```
 Enclose anything you want displayed by browsers that do not support scripts.
+
+
+### Tables
+
+```html
+<table>...</table>
+```
+Places a table on your page. Container Tag.
+
+```html
+<caption>...</caption>
+```
+contains the caption of the table, the title of sorts. It will appear across the top unless specified otherwise. This tag should not be contained in a tr or td.
+
+```html
+<tr>...</tr>
+```
+starts a new table row. Cells go inside this. Attributes are the same as td's.
+
+```html
+<td>...</td>
+```
+encloses a table cell. Content goes in these.
+
+```html
+<th>...</th>
+```
+same as table cells, but with all contents bold and aligned to the centre.
+
+```html
+<thead>...</thead>
+```
+Defines the header part of a large table. Wrap the tags around the rows/cells you wish to define as the header.
+
+```html
+<tbody>...</tbody>
+```
+Defines the main body of a complex table.
+
+```html
+<tfoot>...</tfoot>
+```
+Wrap this around the footer part of your table.
+
+```html
+<colgroup>
+```
+Allows you to set attributes for the entire column. Each column has to be defined sequentially.
