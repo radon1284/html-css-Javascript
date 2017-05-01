@@ -13,5 +13,10 @@ The tags are what separate normal text from HTML code. You might know them as th
 
 Example:
 ```html
-<strong>**These words will be bold**</strong>, and these will not.
+<strong>These words will be bold</strong>, and these will not.
 ```
+### Basic Structure
+
+**<!DOCTYPE>**
+
+The DTD (Document Type Declaration), this tells your browser which version of HTML you're using. Make sure you use the right DTD, or your page may display incorrectly.
