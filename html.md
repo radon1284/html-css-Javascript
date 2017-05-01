@@ -77,3 +77,35 @@ standard html page
 <a>...</a>
 ```
 Makes the enclosed text or image a hyperlink to another file.
+
+### Lists
+
+```html
+<ol>...</ol>
+```
+Creates an ordered list, where each item is numbered in order. Container Tag.
+
+```html
+<ul>...</ul>
+```
+Creates an unordered list, with each item bulleted. Container Tag.
+
+```html
+<li>
+```
+Each list item begins with an li, and they are all placed in either an ol or ul.
+
+```html
+<dl>...</dl>
+```
+Creates a definition list.
+
+```html
+<dt>
+```
+Creates a definition term.
+
+```html
+<dd>
+```
+Creates a definition, which appears below its parent term and indented from the left.
