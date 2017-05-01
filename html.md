@@ -428,3 +428,8 @@ Displays the surrounded text underlined.
 <!DOCTYPE html>
 ```
 The DOCTYPE declaration for HTML5 is very simple:
+
+```html
+<meta charset="UTF-8">
+```
+The character encoding (charset) declaration is also very simple:
