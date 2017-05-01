@@ -21,26 +21,36 @@ Example:
 
 The DTD (Document Type Declaration), this tells your browser which version of HTML you're using. Make sure you use the right DTD, or your page may display incorrectly.
 
-```html<html>...</html>```
+```html
+<html>...</html>
+```
 Standard opening and closing tags for any HTML page. Enclose everything else in these. Container tag.
 
-```html<!-- ... -->```html
+```html
+<!-- ... -->
+```
 A comment — whatever you put here will be skipped over by the browser.
-
+```html
 <head>...</head>
+```
 Starts the header part of your document. Everything between these is mainly used to help your browser and search engines classify your page. Using this is optional, but recommended. Container tag.
-
+```html
 <title>...</title>
+```
 Whatever is between these tags will appear in the blue bar at the top of the screen.
-
+```html
 <meta>
+```
 A group of tags that give page and creator information specifically to the search engines.
-
+```html
 <base>
+```
 Changes the default link target or relative link URL, useful if the page is read on another server.
-
+```html
 <link>
+```
 Allows you to associate stylesheets and a favorites icon to your page.
-
+```html
 <body>...</body>
+```
 Everything visible on your page goes between these tags. Everything. Container tag.
