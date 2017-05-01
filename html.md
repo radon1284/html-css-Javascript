@@ -591,3 +591,19 @@ with the help of javascript.
 </html>
 ```
 
+### New Form Elements
+
+```html
+<datalist>
+```
+Specifies a list of pre-defined options for input controls
+```html
+
+<keygen>
+```
+Defines a key-pair generator field (for forms)
+
+```html
+<output>
+```
+Defines the result of a calculation
