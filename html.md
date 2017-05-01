@@ -13,5 +13,5 @@ The tags are what separate normal text from HTML code. You might know them as th
 
 Example:
 ```html
-<strong>These words will be bold</strong>, and these will not.
+<strong>**These words will be bold**</strong>, and these will not.
 ```
