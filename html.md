@@ -119,3 +119,24 @@ Sample:
   <dd>White cold drink</dd>
 </dl>
 ```
+
+### Multimedia
+
+```html
+<img>
+```
+Places an image on your page
+```html
+<embed>
+```
+Adds a multimedia element directly into your page, allowing your browser to play it with a plug-in.
+
+```html
+<script>...</script>
+```
+Adds a script, usually a JavaScript into your page.
+
+```html
+<noscript>...</noscript>
+```
+Enclose anything you want displayed by browsers that do not support scripts.
