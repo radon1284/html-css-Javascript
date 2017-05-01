@@ -109,3 +109,13 @@ Creates a definition term.
 <dd>
 ```
 Creates a definition, which appears below its parent term and indented from the left.
+
+Sample:
+```html
+<dl>
+  <dt>Coffee</dt>
+  <dd>Black hot drink</dd>
+  <dt>Milk</dt>
+  <dd>White cold drink</dd>
+</dl>
+```
