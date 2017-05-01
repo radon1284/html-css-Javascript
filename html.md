@@ -17,8 +17,9 @@ Example:
 ```
 ### Basic Structure
 
-**<!DOCTYPE>**
-
+```html
+<!DOCTYPE>
+```
 The DTD (Document Type Declaration), this tells your browser which version of HTML you're using. Make sure you use the right DTD, or your page may display incorrectly.
 
 ```html
@@ -54,3 +55,18 @@ Allows you to associate stylesheets and a favorites icon to your page.
 <body>...</body>
 ```
 Everything visible on your page goes between these tags. Everything. Container tag.
+
+standard html page
+
+```html
+<!DOCTYPE html>
+  <html>
+    <head>
+    <title>My Page Title</title>
+    <meta name="description" content="Your Description">
+    </head>
+    <body>
+    <h1>Header 1</h1>
+    </body>
+  <html>
+```
