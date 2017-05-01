@@ -1,4 +1,5 @@
 ### What is HTML?
+
 **HTML** = *Hypertext Markup Language*
 
 HTML is a computer language devised to allow website creation. These websites can then be viewed by anyone else connected to the Internet. It is relatively easy to learn, with the basics being accessible to most people in one sitting; and quite powerful in what it allows you to create.
@@ -190,6 +191,7 @@ Wrap this around the footer part of your table.
 ```
 Allows you to set attributes for the entire column. Each column has to be defined sequentially.
 
+Sample:
 ```html
 <table>
   <colgroup>
@@ -213,3 +215,25 @@ Allows you to set attributes for the entire column. Each column has to be define
   </tr>
 </table>
 ```
+
+### Frames
+
+```html
+<frameset>...< /frameset>
+```
+Starts a new frame layout. When constructing a frame page, no body is used. Container Tag.
+
+```html
+<frame>
+```
+Defines a single frame within a frameset.
+
+```html
+<noframes>...< /noframes>
+```
+If a visitor has an old browser which doesn't support frames you can leave a message or some content between these tags.
+
+```html
+<iframe>...</iframe>
+```
+Places an inline or 'floating' frame. This can be placed anywhere on a normal page, i.e. it doesn't need to be part of a frameset.
