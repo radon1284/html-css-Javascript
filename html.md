@@ -421,3 +421,10 @@ Renders text in fixed-width, mono-spaced font; like an old typewriter.
 <u>...</u>
 ```
 Displays the surrounded text underlined.
+
+### What is New in HTML5?
+
+```html
+<!DOCTYPE html>
+```
+The DOCTYPE declaration for HTML5 is very simple:
