@@ -60,7 +60,7 @@ standard html page
 
 ```html
 <!DOCTYPE html>
-  <html>
+  <html lang="en">
     <head>
     <title>My Page Title</title>
     <meta name="description" content="Your Description">
