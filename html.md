@@ -1,2 +1,2 @@
 # What is HTML
-**HTML** = __Hypertext Markup Language__
+**HTML** = *Hypertext Markup Language*
