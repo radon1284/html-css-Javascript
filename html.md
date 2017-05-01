@@ -546,3 +546,26 @@ Defines a date/time
 <wbr>
 ```
 Defines a possible line-break
+
+Sample: HTML5
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Title of the document</title>
+  </head>
+
+  <body>
+    <header></header>
+    <main>
+      <section>
+        <article></article>
+      </section>
+      <aside></aside>
+    </main>
+    <footer></footer>
+  </body>
+</html>
+```
