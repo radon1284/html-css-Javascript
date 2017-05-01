@@ -571,3 +571,23 @@ Sample: HTML5
   </body>
 </html>
 ```
+
+### Custom HTML Elements
+You can also add new elements to an HTML page with a browser trick. 
+with the help of javascript.
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+  <script>document.createElement("customElement")</script>
+</head>
+<body>
+
+<h1>A Heading</h1>
+<customElement>My custom Element</customElement>
+
+</body>
+</html>
+```
+
