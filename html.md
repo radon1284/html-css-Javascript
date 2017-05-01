@@ -237,3 +237,40 @@ If a visitor has an old browser which doesn't support frames you can leave a mes
 <iframe>...</iframe>
 ```
 Places an inline or 'floating' frame. This can be placed anywhere on a normal page, i.e. it doesn't need to be part of a frameset.
+
+### Forms
+
+```html
+<form>...</form>
+```
+Begins a form area. Add in any form elements you want to use between these tags. Container Tag.
+
+```html
+<input>
+```
+Allows you to add various user input fields, like text-boxes, checkboxes, radio buttons, submit and reset buttons, depending on how you set the type attribute.
+
+```html
+<textarea>...</textarea>
+```
+Adds a multi-lined text area, suitable for input of a larger amount of information than the single-line text box. Any text added between the tags is placed in the area when the page loads.
+
+```html
+<select>...</select>
+```
+Sets up an empty drop-down selection box. You can add choices with the `html<option>...</option>` tag.
+
+```html
+<fieldset>...</fieldset>
+```
+Allows you to group form elements together into logical arrangements.
+
+```html
+<legend>...</legend>
+```
+You can title your fieldsets with this tag.
+
+```html
+<label>...</label>
+```
+You can make the explanatory text next to a form element into part of the clickable area with this tag, which makes selecting elements much easier.
