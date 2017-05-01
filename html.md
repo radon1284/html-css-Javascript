@@ -274,3 +274,150 @@ You can title your fieldsets with this tag.
 <label>...</label>
 ```
 You can make the explanatory text next to a form element into part of the clickable area with this tag, which makes selecting elements much easier.
+
+### Text Formatting
+
+```html
+```
+<address>...</address>
+Encloses the signature and address of the author, displayed in italics.
+
+```html
+<b>...</b>
+```
+Makes the enclosed text into bold text.
+
+```html
+<big>...</big>
+```
+Makes the enclosed text one size bigger.
+
+```html
+<blockquote>...</blockquote>
+```
+Indents the text in from both sides.
+
+```html
+<br>
+```
+Stops the current line and goes on to the next.
+
+```html
+<center>...</center>
+```
+Aligns the surrounded objects (anything from text or images to forms etc.) to the center.
+
+```html
+<cite>...</cite>
+```
+Includes a citation, and is usually rendered as italics.
+
+```html
+<code>...</code>
+```
+If you are including either computer or HTML code into your documents wrap these around it. It is rendered in small text.
+
+```html
+<dfn>...</dfn>
+```
+A definition. As usual with these things, rendered in italics.
+
+```html
+<div>...</div>
+```
+Surround distinct sections of your page in divs, primarily to align them, but many other attributes are supported and divs can be used to set up layers too.
+
+```html
+<em>...</em>
+```
+Emphasises the surrounded text, changing it to italics.
+
+```html
+<font>...</font>
+```
+Sets the font properties for the selected text.
+
+```html
+<hx>...</hx>
+```
+Sets the text as a heading, with values of `h1` (the biggest) to `h6` (the smallest).
+
+```html
+<hr>
+```
+Inserts a grey horizontal line across the page.
+
+```html
+<i>...</i>
+```
+The default tag for italics.
+
+```html
+<kbd>...</kbd>
+```
+Implies that the text should be entered on the keyboard. It is rendered mono-spaced and small.
+
+```html
+<nobr>...</nobr>
+```
+Tells the enclosed text not to wrap at the edge of the screen, but continue on as long as it needs.
+
+```html
+<wbr>
+```
+If you need a line break in a block of text you have set in nobr, add this.
+
+```html
+<p>...</p>
+```
+Makes the enclosed text a paragraph, with lines skipped at the top and bottom.
+
+```html
+<pre>...</pre>
+```
+Displays text in fixed-width font and retains the formatting of the original text (i.e. spaces and line-breaks).
+
+```html
+<q>...</q>
+```
+Used to mark up short, inline quotations. Some browsers will add quotation marks around the text.
+
+```html
+<s>...</s> (or <strike>...</strike>)
+```
+Displays the text with a strike-through.
+
+```html
+<samp>...</samp>
+```
+Indicates sample output from a form or program. Text is rendered in small font.
+
+```html
+<small>...</small>
+```
+Makes the enclosed text one size smaller.
+
+```html
+<strong>...</strong>
+```
+Creates emphasis for the selected text, rendered in bold.
+
+```html
+<sub>...</sub>
+```
+Renders the text in subscript, which is words under the normal text. For example: this
+
+```html
+<sup>...</sup>
+```
+The sister tag to `<sub>` above, this renders text in superscript. Like this
+
+```html
+<tt>...</tt>
+```
+Renders text in fixed-width, mono-spaced font; like an old typewriter.
+
+```html
+<u>...</u>
+```
+Displays the surrounded text underlined.
