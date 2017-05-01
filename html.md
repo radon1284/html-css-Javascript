@@ -558,7 +558,9 @@ Sample: HTML5
   </head>
 
   <body>
-    <header></header>
+    <header>
+    <nav></nav>
+    </header>
     <main>
       <section>
         <article></article>
