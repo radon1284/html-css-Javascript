@@ -21,10 +21,10 @@ Example:
 
 The DTD (Document Type Declaration), this tells your browser which version of HTML you're using. Make sure you use the right DTD, or your page may display incorrectly.
 
-<html>...</html>
+```html<html>...</html>```
 Standard opening and closing tags for any HTML page. Enclose everything else in these. Container tag.
 
-<!-- ... -->
+```html<!-- ... -->```html
 A comment — whatever you put here will be skipped over by the browser.
 
 <head>...</head>
