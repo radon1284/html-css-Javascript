@@ -70,3 +70,10 @@ standard html page
     </body>
   <html>
 ```
+
+### Links
+
+```html
+<a>...</a>
+```
+Makes the enclosed text or image a hyperlink to another file.
