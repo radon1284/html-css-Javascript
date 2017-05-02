@@ -195,3 +195,31 @@ ll HTML elements can be considered as boxes. In CSS, the term "box model" is use
 The CSS box model is essentially a box that wraps around every HTML element. It consists of: margins, borders, padding, and the actual content. The image below illustrates the box model:
 
 ![border-style](https://dl.dropboxusercontent.com/u/24437921/box-model.png?raw=true)
+
+### CSS Outline
+
+The CSS `outline` properties specify the style, color, and width of an outline.
+
+An outline is a line that is drawn around elements (outside the borders) to make the element "stand out".
+
+However, the outline property is different from the border property - The outline is NOT a part of an element's dimensions; the element's total width and height is not affected by the width of the outline.
+
+![border-style](https://dl.dropboxusercontent.com/u/24437921/outline.png?raw=true)
+
+### Outline Style
+
+The `outline-style` property specifies the style of the outline.
+The `outline-style` property can have one of the following values:
+
+| property | Description                                                               |
+|----------|---------------------------------------------------------------------------|
+| dotted   | Defines a dotted border                                                   |
+| dashed   | Defines a dashed border                                                   |
+| solid    | Defines a solid border                                                    |
+| double   | Defines a double border                                                   |
+| groove   | Defines a 3D grooved border. The effect depends on the border-color value |
+| ridge    | Defines a 3D ridged border. The effect depends on the border-color value  |
+| inset    | Defines a 3D inset border. The effect depends on the border-color value   |
+| outset   | Defines a 3D outset border. The effect depends on the border-color value  |
+| none     | Defines no border                                                         |
+| hidden   | Defines a hidden border                                                   |
