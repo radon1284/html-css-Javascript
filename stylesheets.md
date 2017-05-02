@@ -342,3 +342,24 @@ The four links states are:
 * `a:visited` - a link the user has visited
 * `a:hover` - a link when the user mouses over it
 * `a:active` - a link the moment it is clicked
+
+### CSS Lists
+
+In HTML, there are two main types of lists:
+
+* unordered lists (`<ul>`) - the list items are marked with bullets
+* ordered lists (`<ol>`) - the list items are marked with numbers or letters
+
+The CSS list properties allow you to:
+
+* Set different list item markers for ordered lists
+* Set different list item markers for unordered lists
+* Set an image as the list item marker
+* Add background colors to lists and list items
+
+| property | Description                                                               							|
+|----------|----------------------------------------------------------------------------------------------------|
+| list-style			| Sets all the properties for a list in one declaration 								|
+| list-style-image		| Specifies an image as the list-item marker 											|
+| list-style-position	| Specifies if the list-item markers should appear inside or outside the content flow 	|
+| list-style-type		| Specifies the type of list-item marker 												|
