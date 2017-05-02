@@ -607,3 +607,20 @@ Defines a key-pair generator field (for forms)
 <output>
 ```
 Defines the result of a calculation
+
+### HTML Graphics
+
+```html
+<canvas>
+```
+
+The HTML <canvas> element is used to draw graphics on a web page.
+
+The graphic to the left is created with <canvas>. It shows four elements: a red rectangle, a gradient rectangle, a multicolor rectangle, and a multicolor text.
+
+Sample:
+```html
+<canvas id="myCanvas" width="200" height="100" style="border:1px solid #000000;">
+Your browser does not support the HTML5 canvas tag.
+</canvas>
+```
