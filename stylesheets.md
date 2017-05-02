@@ -147,3 +147,11 @@ All the padding properties can have the following values:
 * ***%*** - specifies a padding in % of the width of the containing element
 * ***inherit*** - specifies that the padding should be inherited from the parent element
 
+```css
+p {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+```
