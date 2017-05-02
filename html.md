@@ -614,9 +614,9 @@ Defines the result of a calculation
 <canvas>
 ```
 
-The HTML <canvas> element is used to draw graphics on a web page.
+The HTML `<canvas>` element is used to draw graphics on a web page.
 
-The graphic to the left is created with <canvas>. It shows four elements: a red rectangle, a gradient rectangle, a multicolor rectangle, and a multicolor text.
+The graphic to the left is created with `<canvas>`. It shows four elements: a red rectangle, a gradient rectangle, a multicolor rectangle, and a multicolor text.
 
 Sample:
 ```html
@@ -624,11 +624,12 @@ Sample:
 Your browser does not support the HTML5 canvas tag.
 </canvas>
 ```
+
 ```html
 <svg>
 ```
 
-The HTML <svg> element is a container for SVG graphics.
+The HTML `<svg>` element is a container for SVG graphics.
 
 SVG has several methods for drawing paths, boxes, circles, text, and graphic images.
 
@@ -638,3 +639,11 @@ SVG has several methods for drawing paths, boxes, circles, text, and graphic ima
 * SVG stands for Scalable Vector Graphics
 * SVG is used to define graphics for the Web
 * SVG is a W3C recommendation
+
+Sample:
+
+```html
+<svg width="100" height="100">
+  <circle cx="50" cy="50" r="40" stroke="green" stroke-width="4" fill="yellow" />
+</svg>
+```
