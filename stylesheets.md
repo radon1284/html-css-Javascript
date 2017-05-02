@@ -70,3 +70,9 @@ The CSS background properties are used to define the background effects for elem
 * background-repeat
 * background-attachment
 * background-position
+
+```css
+body {
+    background-color: lightblue;
+}
+```
