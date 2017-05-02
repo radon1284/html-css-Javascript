@@ -253,3 +253,28 @@ The `outline-style` property can have one of the following values:
 ![outline-style](https://dl.dropboxusercontent.com/u/24437921/outline-sample.png?raw=true)
 
 ### CSS Text
+
+The color property is used to set the color of the text.
+
+With CSS, a color is most often specified by:
+
+* a color name - like "red"
+* a HEX value - like "#ff0000"
+* an RGB value - like "rgb(255,0,0)"
+
+| property 			| Description                                                               																			|
+|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| color				| Sets the color of text 																																|
+| direction			| Specifies the text direction/writing direction 																										|
+| letter-spacing	| Increases or decreases the space between characters in a text 																						|
+| line-height		| Sets the line height 																																	|
+| text-align		| Specifies the horizontal alignment of text 																											|
+| text-decoration	| Specifies the decoration added to text 																												|
+| text-indent		| Specifies the indentation of the first line in a text-block 																							|
+| text-shadow		| Specifies the shadow effect added to text 																											|
+| text-transform	| Controls the capitalization of text 																													|
+| text-overflow		| Specifies how overflowed content that is not displayed should be signaled to the user 																|
+| unicode-bidi		| Used together with the direction property to set or return whether the text should be overridden to support multiple languages in the same document 	|
+| vertical-align	| Sets the vertical alignment of an element 																											|
+| white-space		| Specifies how white-space inside an element is handled 																								|
+| word-spacing		| Increases or decreases the space between words in a text 																								|
