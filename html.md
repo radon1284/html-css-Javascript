@@ -624,3 +624,10 @@ Sample:
 Your browser does not support the HTML5 canvas tag.
 </canvas>
 ```
+```html
+<svg>
+```
+
+The HTML <svg> element is a container for SVG graphics.
+
+SVG has several methods for drawing paths, boxes, circles, text, and graphic images.
