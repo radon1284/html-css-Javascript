@@ -659,8 +659,8 @@ Attributes provide additional information about HTML elements.
 * Attributes are always specified in the start tag
 * Attributes usually come in name/value pairs like: name="value"
 
-|    Attribute    |                                                Description                                                |
-|:---------------:|:---------------------------------------------------------------------------------------------------------:|
+| Attribute       | Description                                                                                               |
+|-----------------|-----------------------------------------------------------------------------------------------------------|
 | accesskey       | Specifies a shortcut key to activate/focus an element                                                     |
 | class           | Specifies one or more classnames for an element (refers to a class in a style sheet)                      |
 | contenteditable | Specifies whether the content of an element is editable or not                                            |
