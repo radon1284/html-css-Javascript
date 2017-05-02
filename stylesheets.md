@@ -180,7 +180,7 @@ The problem with the `<div>` above occurs when the browser window is smaller tha
 
 Using `max-width` instead, in this situation, will improve the browser's handling of small windows.
 
-```html
+```css
 div {
     max-width: 500px;
     height: 100px;
