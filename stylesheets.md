@@ -374,3 +374,37 @@ The CSS list properties allow you to:
 | caption-side		| Specifies the placement of a table caption 											|
 | empty-cells		| Specifies whether or not to display borders and background on empty cells in a table 	|
 | table-layout		| Sets the layout algorithm to be used for a table 										|
+
+### CSS Dispplay
+
+The `display` property is the most important CSS property for controlling layout.
+
+The `display` property specifies if/how an element is displayed.
+
+Every HTML element has a default display value depending on what type of element it is. The default display value for most elements is `block` or `inline`.
+
+A `block-level` element always starts on a new line and takes up the full width available (stretches out to the left and right as far as it can).
+
+**Block-level Elements**
+
+![block-level](https://dl.dropboxusercontent.com/u/24437921/block-level.png?raw=true)
+Examples of block-level elements:
+
+* `<div>`
+* `<h1> - <h6>`
+* `<p>`
+* `<form>`
+* `<header>`
+* `<footer>`
+* `<section>`
+
+**Inline Elements**
+
+An `inline` element does not start on a new line and only takes up as much width as necessary.
+
+![inline-level](https://dl.dropboxusercontent.com/u/24437921/inline-level.png?raw=true)
+Examples of inline elements:
+
+* `<span>`
+* `<a>`
+* `<img>`
