@@ -278,3 +278,9 @@ With CSS, a color is most often specified by:
 | vertical-align	| Sets the vertical alignment of an element 																											|
 | white-space		| Specifies how white-space inside an element is handled 																								|
 | word-spacing		| Increases or decreases the space between words in a text 																								|
+
+### CSS Fonts
+
+The CSS font properties define the font family, boldness, size, and the style of a text.
+
+![fonts](https://www.w3schools.com/css/serif.gif?raw=true)
