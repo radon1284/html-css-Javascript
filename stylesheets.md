@@ -124,3 +124,26 @@ All the margin properties can have the following values:
 * ***inherit*** - specifies that the margin should be inherited from the parent element
 
 ***Tip:*** Negative values are allowed.
+
+### CSS Padding
+
+The CSS `padding` properties are used to generate space around content.
+
+The padding clears an area around the content (inside the border) of an element.
+
+With CSS, you have full control over the padding. There are CSS properties for setting the padding for each side of an element (top, right, bottom, and left).
+
+CSS has properties for specifying the padding for each side of an element:
+
+```html
+padding-top
+padding-right
+padding-bottom
+padding-left
+```
+All the padding properties can have the following values:
+
+* ***length*** - specifies a padding in px, pt, cm, etc.
+* ***%*** - specifies a padding in % of the width of the containing element
+* ***inherit*** - specifies that the padding should be inherited from the parent element
+
