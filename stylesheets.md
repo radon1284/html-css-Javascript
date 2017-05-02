@@ -95,3 +95,6 @@ The `border-style` property specifies what kind of border to display.
 | outset   | Defines a 3D outset border. The effect depends on the border-color value  |
 | none     | Defines no border                                                         |
 | hidden   | Defines a hidden border                                                   |
+
+Sample:
+![border-style](https://dl.dropboxusercontent.com/u/24437921/border-style.png?raw=true)
