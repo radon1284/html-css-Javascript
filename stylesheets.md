@@ -99,6 +99,32 @@ The `border-style` property specifies what kind of border to display.
 Sample:
 ![border-style](https://dl.dropboxusercontent.com/u/24437921/border-style.png?raw=true)
 
+### All CSS Border Properties
+
+| property | Description                                                               		|
+|----------|--------------------------------------------------------------------------------|
+| border				| Sets all the border properties in one declaration 				|
+| border-bottom			| Sets all the bottom border properties in one declaration			|
+| border-bottom-color	| Sets the color of the bottom border 								|
+| border-bottom-style	| Sets the style of the bottom border 								|
+| border-bottom-width	| Sets the width of the bottom border 								|
+| border-color			| Sets the color of the four borders 								|
+| border-left			| Sets all the left border properties in one declaration 			|
+| border-left-color		| Sets the color of the left border 								|
+| border-left-style		| Sets the style of the left border 								|
+| border-left-width		| Sets the width of the left border 								|
+| border-radius			| Sets all the four border-*-radius properties for rounded corners 	|
+| border-right			| Sets all the right border properties in one declaration 			|
+| border-right-color	| Sets the color of the right border 								|
+| border-right-style	| Sets the style of the right border 								|
+| border-right-width	| Sets the width of the right border 								|
+| border-style			| Sets the style of the four borders 								|
+| border-top			| Sets all the top border properties in one declaration 			|
+| border-top-color		| ets the color of the top border 									|
+| border-top-style		| Sets the style of the top border 									|
+| border-top-width		| Sets the width of the top border 									|
+| border-width			| Sets the width of the four borders 								|
+
 ### CSS Margins
 
 The CSS `margin` properties are used to generate space around elements.
@@ -225,3 +251,5 @@ The `outline-style` property can have one of the following values:
 | hidden   | Defines a hidden border                                                   |
 
 ![outline-style](https://dl.dropboxusercontent.com/u/24437921/outline-sample.png?raw=true)
+
+### CSS Text
