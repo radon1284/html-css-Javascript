@@ -329,3 +329,16 @@ p {
 font-weight: normal|bold|bolder|lighter|number|initial|inherit;
 }
 ```
+
+### CSS Links
+
+With CSS, links can be styled in different ways.
+
+In addition, links can be styled differently depending on what state they are in.
+
+The four links states are:
+
+* `a:link` - a normal, unvisited link
+* `a:visited` - a link the user has visited
+* `a:hover` - a link when the user mouses over it
+* `a:active` - a link the moment it is clicked
