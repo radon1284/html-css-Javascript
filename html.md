@@ -647,3 +647,14 @@ Sample:
   <circle cx="50" cy="50" r="40" stroke="green" stroke-width="4" fill="yellow" />
 </svg>
 ```
+
+### HTML Attributes
+
+Attributes provide additional information about HTML elements.
+
+#### HTML Attributes
+
+* All HTML elements can have attributes
+* Attributes provide additional information about an element
+* Attributes are always specified in the start tag
+* Attributes usually come in name/value pairs like: name="value"
