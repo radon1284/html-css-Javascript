@@ -223,3 +223,5 @@ The `outline-style` property can have one of the following values:
 | outset   | Defines a 3D outset border. The effect depends on the border-color value  |
 | none     | Defines no border                                                         |
 | hidden   | Defines a hidden border                                                   |
+
+![outline-style](https://dl.dropboxusercontent.com/u/24437921/outline-sample.png?raw=true)
