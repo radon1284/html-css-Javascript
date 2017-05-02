@@ -155,3 +155,17 @@ p {
     padding-left: 80px;
 }
 ```
+
+### CSS Height and Width
+
+The `height` and `width` properties are used to set the height and width of an element.
+
+The height and width can be set to auto (this is default. Means that the browser calculates the height and width), or be specified in length values, like px, cm, etc., or in percent (%) of the containing block.
+
+```css
+div {
+    height: 200px;
+    width: 50%;
+    background-color: powderblue;
+}
+```
