@@ -363,3 +363,14 @@ The CSS list properties allow you to:
 | list-style-image		| Specifies an image as the list-item marker 											|
 | list-style-position	| Specifies if the list-item markers should appear inside or outside the content flow 	|
 | list-style-type		| Specifies the type of list-item marker 												|
+
+### CSS Tables
+
+| property 			| Description                                                               			|
+|-------------------|---------------------------------------------------------------------------------------|
+| border			| Sets all the border properties in one declaration										|
+| border-collapse	| Specifies whether or not table borders should be collapsed 							|
+| border-spacing	| Specifies the distance between the borders of adjacent cells 							|
+| caption-side		| Specifies the placement of a table caption 											|
+| empty-cells		| Specifies whether or not to display borders and background on empty cells in a table 	|
+| table-layout		| Sets the layout algorithm to be used for a table 										|
