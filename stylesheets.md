@@ -169,3 +169,21 @@ div {
     background-color: powderblue;
 }
 ```
+
+### Setting max-width
+
+The `max-width` property is used to set the maximum width of an element.
+
+The `max-width` can be specified in length values, like px, cm, etc., or in percent (%) of the containing block, or set to none (this is default. Means that there is no maximum width).
+
+The problem with the `<div>` above occurs when the browser window is smaller than the width of the element (500px). The browser then adds a horizontal scrollbar to the page.
+
+Using `max-width` instead, in this situation, will improve the browser's handling of small windows.
+
+```html
+div {
+    max-width: 500px;
+    height: 100px;
+    background-color: powderblue;
+}
+```
