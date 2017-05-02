@@ -302,3 +302,29 @@ In CSS, there are two types of font family names:
 | font-style	| Specifies the font style for text											|
 | font-variant	| Specifies whether or not a text should be displayed in a small-caps		|
 | font-weight	| Specifies the weight of a font											|
+
+```css
+p {
+    font-family: "Times New Roman", Georgia, Serif;
+}
+
+h2 {
+    font-size: 200%;
+}
+p.normal {
+    font-style: normal;
+}
+
+p.italic {
+    font-style: italic;
+}
+
+p.oblique {
+    font-style: oblique;
+}
+p {
+font-variant: normal|small-caps|initial|inherit;
+}
+p {
+font-weight: normal|bold|bolder|lighter|number|initial|inherit;
+}
