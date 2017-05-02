@@ -34,4 +34,5 @@ CSS best practices recommends that you use primarily external style sheets for s
 
 ### CSS Syntax
 
-https://www.w3schools.com/css/selector.gif
+![](images/https://www.w3schools.com/css/selector.gif?raw=true)
+
