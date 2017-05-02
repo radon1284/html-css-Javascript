@@ -284,3 +284,21 @@ With CSS, a color is most often specified by:
 The CSS font properties define the font family, boldness, size, and the style of a text.
 
 ![fonts](https://www.w3schools.com/css/serif.gif?raw=true)
+
+### CSS Font Families
+
+In CSS, there are two types of font family names:
+
+* ***generic family*** - a group of font families with a similar look (like "Serif" or "Monospace")
+* ***font family*** - a specific font family (like "Times New Roman" or "Arial")
+
+### All CSS Font Properties
+
+| property 		| Description                                                               |
+|---------------|---------------------------------------------------------------------------|
+| font			| Sets all the font properties in one declaration							|
+| font-family	| Specifies the font family for text										|
+| font-size		| Specifies the font size of text											|
+| font-style	| Specifies the font style for text											|
+| font-variant	| Specifies whether or not a text should be displayed in a small-caps		|
+| font-weight	| Specifies the weight of a font											|
