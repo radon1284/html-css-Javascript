@@ -98,3 +98,20 @@ The `border-style` property specifies what kind of border to display.
 
 Sample:
 ![border-style](https://dl.dropboxusercontent.com/u/24437921/border-style.png?raw=true)
+
+### CSS Margins
+
+The CSS `margin` properties are used to generate space around elements.
+
+The margin properties set the size of the white space outside the border.
+
+With CSS, you have full control over the margins. There are CSS properties for setting the margin for each side of an element (top, right, bottom, and left).
+
+CSS has properties for specifying the margin for each side of an element:
+
+```html
+margin-top
+margin-right
+margin-bottom
+margin-left
+```
