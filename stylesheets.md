@@ -31,3 +31,7 @@ CSS best practices recommends that you use primarily external style sheets for s
 ```html
 <link rel="stylesheet" type="text/css" href="styles.css" />
 ```
+
+### CSS Syntax
+
+https://www.w3schools.com/css/selector.gif
