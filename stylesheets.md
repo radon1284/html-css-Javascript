@@ -36,3 +36,11 @@ CSS best practices recommends that you use primarily external style sheets for s
 
 ![properties](https://www.w3schools.com/css/selector.gif?raw=true)
 
+Sample:
+
+```css
+p {
+    color: red;
+    text-align: center;
+}
+```
