@@ -455,3 +455,19 @@ In its simplest use, the float property can be used to wrap text around images.
 The following example specifies that an image should float to the right in a text:
 
 ![css-float](https://dl.dropboxusercontent.com/u/24437921/css-float.png?raw?=true)
+
+**All CSS Float Properties**
+
+| property 		| Description                                                               								|
+|---------------|-----------------------------------------------------------------------------------------------------------|
+| clear			| Specifies on which sides of an element where floating elements are not allowed to float 					|
+| float			| Specifies whether or not an element should float 															|
+| overflow		| Specifies what happens if content overflows an element's box 												|
+| overflow-x	| Specifies what to do with the left/right edges of the content if it overflows the element's content area 	|
+| overflow-y	| Specifies what to do with the top/bottom edges of the content if it overflows the element's content area 	|
+
+### Css Align
+
+There are 2 align properties
+
+text-align: left|center|right
