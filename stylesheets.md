@@ -447,3 +447,11 @@ The overflow property has the following values:
 | hidden 	| The overflow is clipped, and the rest of the content will be invisible				| 
 | scroll 	| The overflow is clipped, but a scrollbar is added to see the rest of the content		| 
 | auto 		| If overflow is clipped, a scrollbar should be added to see the rest of the content	|
+
+
+### Css Float
+
+In its simplest use, the float property can be used to wrap text around images.
+The following example specifies that an image should float to the right in a text:
+
+![css-float](https://dl.dropboxusercontent.com/u/24437921/css-float.png?raw?=true)
