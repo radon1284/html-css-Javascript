@@ -5,12 +5,12 @@
 ```php
 <!DOCTYPE html>
 <html>
-<body>
+  <body>
 
-<?php
-echo "My first PHP script!";
-?>
+  <?php
+  echo "My first PHP script!";
+  ?>
 
-</body>
+  </body>
 </html>
 ```
